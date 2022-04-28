@@ -1,0 +1,21 @@
+{
+    "name": "poncho-color",
+    "displayName": "poncho-color",
+    "description": "A one more dark color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "poncho-color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/poncho-color-color-theme.json"
+            }
+        ]
+    }
+}
